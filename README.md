@@ -86,3 +86,12 @@ proyecto-musica/
 ├── README.md                               # Este archivo
 └── datasets/
     └── music_project_en.csv     
+🚀 Cómo Ejecutar el Proyecto
+Clonar el repositorio
+git clone [url-del-repositorio]
+cd proyecto-musica
+Instalar dependencias
+pip install pandas jupyter
+Ejecutar el notebook
+```bash
+jupyter notebook BP_project_template_ES_updated.ip
